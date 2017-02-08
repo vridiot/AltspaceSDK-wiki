@@ -26,7 +26,7 @@ commits, you'll need to follow the full [GitHub flow](https://help.github.com/ar
 the source to your computer, making your changes, uploading them, then filing the
 pull request.
 
-GitHub documents are written in Markdown.
+GitHub documents are written in Markdown. Testing.
 
 3. Submit your changes for review
 ---------------------------------------
